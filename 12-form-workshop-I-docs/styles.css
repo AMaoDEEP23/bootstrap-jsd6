@@ -1,0 +1,14 @@
+.purple{
+    background-color: blueviolet;
+
+}
+.purple:hover{
+    background-color: rgb(106, 4, 202);
+
+}
+.green{
+    background-color: green;
+}
+.green:hover{
+    background-color: rgb(12, 196, 12);
+}
